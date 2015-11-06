@@ -1,0 +1,24 @@
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\bin\Release\My FANCY NEW BROKEN CALCULATOR.exe
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\bin\Release\My FANCY NEW BROKEN CALCULATOR.pdb
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\bin\Release\My FANCY NEW BROKEN CALCULATOR.xml
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New_Calc.frmAbout.resources
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New_Calc.frmCalc.resources
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New_Calc.LabelTextBox.resources
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New_Calc.Resources.resources
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New Calc.vbproj.GenerateResource.Cache
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\My FANCY NEW BROKEN CALCULATOR.exe
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\My FANCY NEW BROKEN CALCULATOR.xml
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\My FANCY NEW BROKEN CALCULATOR.pdb
+C:\Users\lab\Documents\DILEK\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New_Calc.ShappedButton.resources
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\My FANCY NEW BROKEN CALCULATOR.exe
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\My FANCY NEW BROKEN CALCULATOR.xml
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\My FANCY NEW BROKEN CALCULATOR.pdb
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New_Calc.frmAbout.resources
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New_Calc.frmCalc.resources
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New_Calc.LabelTextBox.resources
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New_Calc.Resources.resources
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New_Calc.ShappedButton.resources
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\obj\x86\Release\New Calc.vbproj.GenerateResource.Cache
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\bin\Release\My FANCY NEW BROKEN CALCULATOR.exe
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\bin\Release\My FANCY NEW BROKEN CALCULATOR.pdb
+C:\Users\lab\Desktop\New Calc_new (3)\New Calc_new (2)\New Calc_new\New Calc\New Calc\bin\Release\My FANCY NEW BROKEN CALCULATOR.xml
